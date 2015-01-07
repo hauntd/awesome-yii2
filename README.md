@@ -7,8 +7,8 @@ Please see [CONTRIBUTING](https://github.com/hauntd/awesome-yii2/blob/master/CON
 ## Table of Contents
 - [Awesome Yii 2](#awesome-yii2)
 	- [General](#general)
-	- [Guides and docs](#guides)
-	- [Core components](#core)
+	- [Guides and docs](#guides-docs-manuals)
+	- [Core components](#core-components)
 	- [Widgets](#widgets)
 	- [Behaviors](#behaviors)
 	- [Helpers](#helpers)
@@ -45,6 +45,6 @@ Please see [CONTRIBUTING](https://github.com/hauntd/awesome-yii2/blob/master/CON
 
 * [zelenin/yii2-slug-behavior](https://github.com/zelenin/yii2-slug-behavior) - Yii2 slug behavior.
 
-## Helpers.
+## Helpers
 
 * [2amigos/yii2-transliterator-helper](https://github.com/2amigos/yii2-transliterator-helper) - TransliteratorHelper transliterates UTF-8 encoded text to US-ASCII.
