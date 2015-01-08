@@ -39,6 +39,7 @@ Please see [CONTRIBUTING](https://github.com/hauntd/awesome-yii2/blob/master/CON
 * [yii2-imperavi-widget](https://github.com/vova07/yii2-imperavi-widget) - Imperavi Redactor Widget is a wrapper for Imperavi Redactor, a high quality WYSIWYG editor.
 * [miloschuman/yii2-highcharts](https://github.com/miloschuman/yii2-highcharts) - Easily add Highcharts, Highstock and Highmaps graphs to your Yii2 application.
 * [cebe/yii2-gravatar](https://github.com/cebe/yii2-gravatar) - Gravatar Widget for Yii Framework 2.
+* [Kolyunya/yii2-map-input-widget](https://github.com/Kolyunya/yii2-map-input-widget) - A Yii2 input widget which provides a user-friendly interface for selecting geographical coordinates via Google maps.
 
 ## Behaviors
 *Behaviors and filters.*
