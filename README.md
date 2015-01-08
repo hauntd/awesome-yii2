@@ -45,6 +45,7 @@ Please see [CONTRIBUTING](https://github.com/hauntd/awesome-yii2/blob/master/CON
 *Behaviors and filters.*
 
 * [zelenin/yii2-slug-behavior](https://github.com/zelenin/yii2-slug-behavior) - Yii2 slug behavior.
+* [Kolyunya/yii2-http-authorization](https://github.com/Kolyunya/yii2-http-authorization) - Yii2 HTTP authorization filter.
 
 ## Helpers
 
