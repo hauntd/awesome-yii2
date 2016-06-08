@@ -8,6 +8,7 @@ Please see [CONTRIBUTING](https://github.com/hauntd/awesome-yii2/blob/master/CON
 - [Awesome Yii 2](#awesome-yii2)
 	- [General](#general)
 	- [Guides and docs](#guides-docs-manuals)
+	- [Modules](#modules)
 	- [Core components](#core-components)
 	- [Widgets](#widgets)
 	- [Behaviors](#behaviors)
@@ -18,6 +19,8 @@ Please see [CONTRIBUTING](https://github.com/hauntd/awesome-yii2/blob/master/CON
 *General stuff about Yii 2.0.*
 
 * [Yii 2.0 framework](https://github.com/yiisoft/yii2) - Yii 2.0 framework.
+* [Yii Feed](http://yiifeed.com/) - Framework feed. Components, libs, extensions etc.
+* [YiiGist](https://yiigist.com/) - Composer packages for Yii.
 
 
 ## Guides, docs, manuals
@@ -25,11 +28,16 @@ Please see [CONTRIBUTING](https://github.com/hauntd/awesome-yii2/blob/master/CON
 
 * [Official Yii 2.0 guide](http://www.yiiframework.com/doc-2.0/guide-index.html) - Official Yii 2.0 guide
 
+## Modules
+* [dektrium/yii2-user](https://github.com/dektrium/yii2-user) - Great user module (login,signup,restore etc).
+
 ## Core components
 *Core components for Yii 2.0.*
 
 * [rmrevin/yii2-fontawesome](https://github.com/rmrevin/yii2-fontawesome) - Font Awesome asset + helpers.
 * [Nodge/yii2-eauth](https://github.com/Nodge/yii2-eauth) - EAuth extension allows to authenticate users with accounts on other websites. Supported protocols: OpenID, OAuth 1.0 and OAuth 2.0.
+* [codemix/yii2-excelexport](https://github.com/codemix/yii2-excelexport) - Export data/models to excel.
+* [codemix/yii2-localeurls](https://github.com/codemix/yii2-localeurls) - Language prefix in URLs.
 
 ## Widgets
 *Widgets and UI related.*
@@ -40,6 +48,8 @@ Please see [CONTRIBUTING](https://github.com/hauntd/awesome-yii2/blob/master/CON
 * [miloschuman/yii2-highcharts](https://github.com/miloschuman/yii2-highcharts) - Easily add Highcharts, Highstock and Highmaps graphs to your Yii2 application.
 * [cebe/yii2-gravatar](https://github.com/cebe/yii2-gravatar) - Gravatar Widget for Yii Framework 2.
 * [Kolyunya/yii2-map-input-widget](https://github.com/Kolyunya/yii2-map-input-widget) - A Yii2 input widget which provides a user-friendly interface for selecting geographical coordinates via Google maps.
+* [borodulin/yii2-codemirror](https://github.com/borodulin/yii2-codemirror) - CodeMiror editor.
+* [rmrevin/yii2-favicon-widget](https://github.com/rmrevin/yii2-favicon-widget) Favicon generator
 
 ## Behaviors
 *Behaviors and filters.*
