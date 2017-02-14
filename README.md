@@ -30,14 +30,23 @@ Please see [CONTRIBUTING](https://github.com/hauntd/awesome-yii2/blob/master/CON
 
 ## Modules
 * [dektrium/yii2-user](https://github.com/dektrium/yii2-user) - Great user module (login,signup,restore etc).
+* [yii2mod/yii2-comments](https://github.com/yii2mod/yii2-comments) - Comments module.
+
+## Application templates
+* [https://github.com/trntv/yii2-starter-kit](trntv/yii2-starter-kit) - Yii 2.0 Advanced template +.
 
 ## Core components
 *Core components for Yii 2.0.*
 
 * [rmrevin/yii2-fontawesome](https://github.com/rmrevin/yii2-fontawesome) - Font Awesome asset + helpers.
-* [Nodge/yii2-eauth](https://github.com/Nodge/yii2-eauth) - EAuth extension allows to authenticate users with accounts on other websites. Supported protocols: OpenID, OAuth 1.0 and OAuth 2.0.
 * [codemix/yii2-excelexport](https://github.com/codemix/yii2-excelexport) - Export data/models to excel.
 * [codemix/yii2-localeurls](https://github.com/codemix/yii2-localeurls) - Language prefix in URLs.
+* [trntv/yii2-file-kit](https://github.com/trntv/yii2-file-kit) - File-kit components.
+* [trntv/yii2-glide](https://github.com/trntv/yii2-glide) - Image manipulation components.
+* [yii2tech/crontab](https://github.com/yii2tech/crontab) - Crontab extension.
+* [yii2tech/config](https://github.com/yii2tech/config) - Application runtime config.
+* [yii2tech/filedb](https://github.com/yii2tech/filedb) - FileDB extension.
+* [yii2tech/balance](https://github.com/yii2tech/balance) - Balance accounting extension.
 
 ## Widgets
 *Widgets and UI related.*
@@ -49,13 +58,15 @@ Please see [CONTRIBUTING](https://github.com/hauntd/awesome-yii2/blob/master/CON
 * [cebe/yii2-gravatar](https://github.com/cebe/yii2-gravatar) - Gravatar Widget for Yii Framework 2.
 * [Kolyunya/yii2-map-input-widget](https://github.com/Kolyunya/yii2-map-input-widget) - A Yii2 input widget which provides a user-friendly interface for selecting geographical coordinates via Google maps.
 * [borodulin/yii2-codemirror](https://github.com/borodulin/yii2-codemirror) - CodeMiror editor.
-* [rmrevin/yii2-favicon-widget](https://github.com/rmrevin/yii2-favicon-widget) Favicon generator
+* [rmrevin/yii2-favicon-widget](https://github.com/rmrevin/yii2-favicon-widget) Favicon generator.
+* [unclead/yii2-multiple-input](https://github.com/unclead/yii2-multiple-input) - Multimple input widget.
 
 ## Behaviors
 *Behaviors and filters.*
 
 * [zelenin/yii2-slug-behavior](https://github.com/zelenin/yii2-slug-behavior) - Yii2 slug behavior.
 * [Kolyunya/yii2-http-authorization](https://github.com/Kolyunya/yii2-http-authorization) - Yii2 HTTP authorization filter.
+* [yii2tech/ar-softdelete](https://github.com/yii2tech/ar-softdelete) - Soft delete behavior.
 
 ## Helpers
 
