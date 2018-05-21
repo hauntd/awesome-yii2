@@ -31,9 +31,10 @@ Please see [CONTRIBUTING](https://github.com/hauntd/awesome-yii2/blob/master/CON
 ## Modules
 * [dektrium/yii2-user](https://github.com/dektrium/yii2-user) - Great user module (login,signup,restore etc).
 * [yii2mod/yii2-comments](https://github.com/yii2mod/yii2-comments) - Comments module.
+* [chiliec/yii2-vote](https://github.com/Chiliec/yii2-vote) - Vote module for attaching to any model.
 
 ## Application templates
-* [https://github.com/trntv/yii2-starter-kit](trntv/yii2-starter-kit) - Yii 2.0 Advanced template +.
+* [trntv/yii2-starter-kit](https://github.com/trntv/yii2-starter-kit) - Yii 2.0 Advanced template +.
 
 ## Core components
 *Core components for Yii 2.0.*
@@ -60,6 +61,7 @@ Please see [CONTRIBUTING](https://github.com/hauntd/awesome-yii2/blob/master/CON
 * [borodulin/yii2-codemirror](https://github.com/borodulin/yii2-codemirror) - CodeMiror editor.
 * [rmrevin/yii2-favicon-widget](https://github.com/rmrevin/yii2-favicon-widget) Favicon generator.
 * [unclead/yii2-multiple-input](https://github.com/unclead/yii2-multiple-input) - Multimple input widget.
+* [chiliec/yii2-pager](https://github.com/Chiliec/yii2-pager) - Previous and next link widget.
 
 ## Behaviors
 *Behaviors and filters.*
